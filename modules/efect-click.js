@@ -41,7 +41,7 @@ function remove(event){
 }
 
 
-     function create(event){
+    function create(event){
       if(Controle){
       for (let i = 0; i < historySize; i++) {
         historyX.push(Position(event,canvas).x);

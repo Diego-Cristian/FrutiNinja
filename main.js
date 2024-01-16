@@ -31,7 +31,7 @@ background.width = app.screen.width;
 background.height = app.screen.height;
 background.zIndex = 1000;
 EfectClick(canvas,Position,app,Create,Collision,MoveFruit,Fruit,LoopFruit,ShortFruit,GenerarVida,controlVida,GameOver,Start,ContFruit)
- 
+
 }
 
 
